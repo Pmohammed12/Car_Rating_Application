@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Car Rating</string>
+    <string name="vehicle_make">Vehicle Make</string>
+    <string name="vehicle_model">Vehicle Model</string>
+    <string-array name="fuel_type">
+        <item>Gasoline</item>
+        <item>Hybrid</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+    </string-array>
+    <string name="manual_transmission">Manual Transmission</string>
+    <string name="automatic_transmission">Automatic Transmission</string>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="rating_bar">Rating Bar</string>
+
+
+</resources>
